@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurha\\source\\repos\\IstekForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC2E18F-1E68-4FCE-B18D-91605C989F04}|IstekForm\\IstekForm.csproj|c:\\users\\kurha\\source\\repos\\istekform\\istekform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DC2E18F-1E68-4FCE-B18D-91605C989F04}|IstekForm\\IstekForm.csproj|solutionrelative:istekform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC2E18F-1E68-4FCE-B18D-91605C989F04}|IstekForm\\IstekForm.csproj|c:\\users\\kurha\\source\\repos\\istekform\\istekform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC2E18F-1E68-4FCE-B18D-91605C989F04}|IstekForm\\IstekForm.csproj|solutionrelative:istekform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kurha\\source\\repos\\IstekForm\\IstekForm\\Form1.cs",
+              "RelativeDocumentMoniker": "IstekForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\kurha\\source\\repos\\IstekForm\\IstekForm\\Form1.cs [Design]*",
+              "RelativeToolTip": "IstekForm\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:46:22.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kurha\\source\\repos\\IstekForm\\IstekForm\\Form1.cs",
+              "RelativeDocumentMoniker": "IstekForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\kurha\\source\\repos\\IstekForm\\IstekForm\\Form1.cs*",
+              "RelativeToolTip": "IstekForm\\Form1.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:05:33.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
