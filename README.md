@@ -1,0 +1,1 @@
+A simple yet functional Hotel Request Management System developed using Windows Forms and SQL Server. This desktop application allows guests to send various requests (such as towels or cleaning) via the system, while staff can view and manage these requests in real time through an admin panel.
